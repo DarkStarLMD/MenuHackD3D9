@@ -1,0 +1,30 @@
+﻿  DrawMenu.cpp
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(69,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(69,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(69,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(69,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(83,18): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(83,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(83,22): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(83,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(84,18): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(84,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(84,20): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(84,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(85,20): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(85,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(85,26): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(85,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(86,20): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(86,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(86,24): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\ProgramData\ProjectCpp\HookEndscene\HookEndscene\DrawMenu.cpp(86,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  kiero.cpp
+  Generating Code...
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Generating Code...
+  HookEndscene.vcxproj -> D:\ProgramData\ProjectCpp\HookEndscene\x64\Debug\HookEndscene.dll
